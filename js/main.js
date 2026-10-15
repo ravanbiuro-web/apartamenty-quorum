@@ -204,3 +204,11 @@
     mapBtn.replaceWith(iframe);
   });
 })();
+
+// Przełącznik języka: zamknij po kliknięciu poza nim lub Esc
+document.addEventListener('click', (e) => {
+  document.querySelectorAll('[data-lang-switch][open]').forEach((d) => { if (!d.contains(e.target)) d.open = false; });
+});
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') document.querySelectorAll('[data-lang-switch][open]').forEach((d) => { d.open = false; });
+});

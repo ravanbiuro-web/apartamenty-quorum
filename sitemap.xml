@@ -1,6 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://apartamentyquorum.pl/</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://apartamentyquorum.pl/apartament-21/</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://apartamentyquorum.pl/apartament-23/</loc><lastmod>2026-10-13</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://apartamentyquorum.pl/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/en/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/de/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/es/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/uk/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/ru/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/apartament-21/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a21/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/en/apartament-21/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a21/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/de/apartament-21/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a21/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/es/apartament-21/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a21/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/uk/apartament-21/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a21/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/ru/apartament-21/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-21/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-21/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a21/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/apartament-23/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a23/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/en/apartament-23/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a23/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/de/apartament-23/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a23/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/es/apartament-23/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a23/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/uk/apartament-23/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a23/00-1920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://apartamentyquorum.pl/ru/apartament-23/</loc><lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://apartamentyquorum.pl/en/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://apartamentyquorum.pl/de/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://apartamentyquorum.pl/es/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://apartamentyquorum.pl/uk/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://apartamentyquorum.pl/ru/apartament-23/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://apartamentyquorum.pl/apartament-23/"/>
+    <image:image><image:loc>https://apartamentyquorum.pl/img/a23/00-1920.jpg</image:loc></image:image>
+  </url>
 </urlset>
