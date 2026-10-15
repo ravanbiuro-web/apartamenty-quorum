@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ravanbiuro-web.github.io/apartamenty-quorum/sitemap.xml
+Sitemap: https://apartamentyquorum.pl/sitemap.xml
