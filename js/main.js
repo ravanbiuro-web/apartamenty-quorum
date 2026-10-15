@@ -155,6 +155,43 @@
     });
   }
 
+  /* ---------- Filmy w tle (bez dźwięku, grają tylko gdy są widoczne) ---------- */
+  const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const bgVideos = $$('video[data-autoplay]');
+  const tryPlay = (v) => { const p = v.play(); if (p) p.catch(() => {}); };
+  if (!reduceMotion && 'IntersectionObserver' in window) {
+    const vio = new IntersectionObserver((entries) => {
+      entries.forEach(({ target: v, isIntersecting }) => {
+        if (v.dataset.full) return;
+        if (isIntersecting) tryPlay(v); else v.pause();
+      });
+    }, { threshold: 0.25 });
+    bgVideos.forEach((v) => vio.observe(v));
+  }
+
+  // „Obejrzyj film z dźwiękiem” – od początku, z dźwiękiem i sterowaniem, na pełnym ekranie
+  $$('[data-video-full]').forEach((btn) => {
+    const v = btn.parentElement.querySelector('video');
+    const fsElement = () => document.fullscreenElement || document.webkitFullscreenElement;
+    const back = () => {
+      delete v.dataset.full;
+      v.muted = true; v.controls = false; v.loop = true;
+      btn.hidden = false;
+      if (reduceMotion) v.pause(); else tryPlay(v);
+    };
+    btn.addEventListener('click', () => {
+      v.dataset.full = '1';
+      v.currentTime = 0; v.muted = false; v.loop = false; v.controls = true;
+      btn.hidden = true;
+      tryPlay(v);
+      if (v.requestFullscreen) v.requestFullscreen().catch(() => {});
+      else if (v.webkitEnterFullscreen) v.webkitEnterFullscreen();
+    });
+    document.addEventListener('fullscreenchange', () => { if (!fsElement() && v.dataset.full) back(); });
+    v.addEventListener('webkitendfullscreen', back);
+    v.addEventListener('ended', () => { if (v.dataset.full) { if (fsElement()) document.exitFullscreen?.(); back(); } });
+  });
+
   /* ---------- Mapa (ładowana na żądanie) ---------- */
   const mapBtn = $('[data-map-load]');
   mapBtn?.addEventListener('click', () => {
